@@ -1,4 +1,34 @@
-# Pokedex
+<h1 align="center">
+  Pokedex
+</h1>
+
+<p align="center">Pokedex developed for study purposes.</p>
+
+<p align="center">
+  <a href="https://github.com/vtorres96/angular-pokedex/graphs/contributors">
+    <img src="https://img.shields.io/github/contributors/rocketseat-content/youtube-clone-twitch-app?color=%236633cc&logoColor=%236633cc&style=flat" alt="Contributors">
+  </a>
+</p>
+
+<hr>
+
+## Participants
+
+[<img src="https://avatars3.githubusercontent.com/u/40577101?s=460&v=4" width="75px;"/>](https://github.com/vtorres96)
+
+[Victor Torres](https://github.com/vtorres96)
+
+## Techs
+
+- [x] Angular
+- [x] TypeScript
+
+## Starting Dev Environment
+
+1. Run `npm install` or `yarn install`.<br />
+2. Run `ng serve` and access `http://localhost:4200`.<br />
+
+# Angular-Pokedex
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.0.
 
